@@ -9,7 +9,7 @@ const config = {
 			fallback: 'index.html'
 		}),
 		paths: {
-			base: '/site/ttt-svelte'
+			base: '/site/ttt-svelte-app'
 		}
 	}
 };
