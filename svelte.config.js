@@ -9,7 +9,7 @@ const config = {
 			fallback: 'index.html'
 		}),
 		paths: {
-			base: '/site/tic-tac-toe-svelte'
+			base: '/site/tictactoe-svelte'
 		}
 	}
 };
