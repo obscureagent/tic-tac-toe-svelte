@@ -7,7 +7,10 @@ const config = {
 	kit: {
 		adapter: adapter({
 			fallback: 'index.html'
-		})
+		}),
+		paths: {
+			base: '/site/tic-tac-toe-svelte'
+		}
 	}
 };
 
